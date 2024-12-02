@@ -19,7 +19,7 @@ Before you begin, make sure you’ve installed the following Libraries:
 Pandas
 Numpy
 Matpotlib
-### installing
+### Installing
 You can installed the libraries with following code:
 import pandas as pd
 import numpy as np
