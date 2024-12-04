@@ -55,5 +55,5 @@ This project is open-source
 
 ## Acknowledgments
 Thanks to my instructors and Durham College for teaching me the foundations of machine learning.
-Scikit-learn’s documentation for being an excellent resource during the project.
+
 
